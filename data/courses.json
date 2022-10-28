@@ -38,7 +38,7 @@
     {
         "id":5,
         "name":"Java",
-        "description":"Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.",
+        "description":"Java is a powerful laguage general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.",
         "image":"https://i.ibb.co/3RG3W9C/cb88-java-logo-001.jpg",
         "total_view": 10,
         "price": "10"
