@@ -11,7 +11,7 @@
     {
         "id":2,
         "name":"C",
-        "description":"C language is considered as the mother language of all the modern programming languages because most of the compilers, JVMs, Kernels, etc. are written in C language, and most of the programming languages follow C syntax, for example, C++, Java, C#, etc.",
+        "description":"C language is mostly considered as the mother language of all the modern programming languages because most of the compilers, JVMs, Kernels, etc. are written in C language, and most of the programming languages follow C syntax, for example, C++, Java, C#, etc.",
         "image":"https://i.ibb.co/Rym44Sq/0-tc5h-Gik294-F0-Omb-C.jpg",
         "total_view": 10,
         "price": "10"
