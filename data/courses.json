@@ -29,7 +29,7 @@
     {
         "id":4,
         "name":"C++",
-        "description":"C++ pronounced is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or . The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms",
+        "description":"C++ pronounced is a high-level recomended general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or . The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms",
         "image":"https://i.ibb.co/bK7jztg/where-to-get-c-programming-help-at-a-reasonable-price.png",
         "total_view": 10,
         "price": "10"
