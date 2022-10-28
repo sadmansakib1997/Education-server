@@ -2,7 +2,7 @@
     {
         "id":1,
         "name":"Python",
-        "description":"Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.",
+        "description":"Python is a high-level,and most popular general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.",
         "image":"https://i.ibb.co/rbRfcm5/images.jpg",
         "total_view": 10,
         "price": "10"
